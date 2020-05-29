@@ -26,6 +26,10 @@ gem 'jbuilder', '~> 2.7'
 gem 'bulma-rails', '~> 0.8.0'
 # better form 
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
+# gravatar
+gem 'gravatar_image_tag', '~> 1.2'
+#devise 
+gem 'devise', '~> 4.7', '>= 4.7.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
