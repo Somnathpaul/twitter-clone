@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 # frontend 
-gem 'bulma-rails', '~> 0.8.0'
+gem 'bulma-rails', '~> 0.8.2'
 # better form 
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
 # gravatar
